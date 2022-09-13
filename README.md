@@ -1,16 +1,13 @@
-# space_app
+# UI Space APP
 
-A new Flutter project.
+![iPhone X Flying Mockup Left View](https://user-images.githubusercontent.com/88551992/189841549-52d73b69-9740-43d7-807d-df9e500b8a79.png)
+![iPhone X Side View Mockup](https://user-images.githubusercontent.com/88551992/189841569-f18e550a-5906-4622-ae19-9e225f6faac0.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter
+ * flutter version: 3.3.0
+ * The nav bar is made using: https://pub.dev/packages/animated_bottom_navigation_bar
+ * application running on Android and IOS
+ 
+## Time to made
+ * Composing of 3 pages
+ * Made in 4 hours
